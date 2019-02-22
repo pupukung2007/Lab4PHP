@@ -1,0 +1,40 @@
+header{
+    background-color: #375771;
+    color: white;
+}
+header h2{
+    margin-bottom: 0px;
+}
+body{
+    background-image: url(bg.jpg);
+	height: 100%;
+	width: 100%;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+.home-btn{
+    background-color: #375771;
+    width: 5%;
+    border-right-style: solid;
+    border-left-style: none;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-color: white;
+}
+.home-btn a{
+    color: white;
+}
+.intro{
+    color: white;
+    background-color: #375771;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-style: bold;
+}
+.intro a{
+    color: red;
+}
+.main-form h3{
+   background-color: skyblue;
+}
